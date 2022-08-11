@@ -57,4 +57,4 @@ client.user.setGame(`𝐇𝐄𝐋𝐋〆𝐊𝐔𝐑𝐃ヅ`)
 
 
 
-client.login("MTAwNjk3MjY1OTY0MjQwOTAwMA.G5h2kD.65JefBNm8vQJIWjVYLxF3wnMBQiMC8Eejydd5E");// Token Lera Dane
+client.login("MTAwNzEzNzc4ODg1ODIxMjQwMg.GteAJE.UJk8CxzSZiOscJiUTD95bvU1Zw4X1I6ppJx7XM");// Token Lera Dane
